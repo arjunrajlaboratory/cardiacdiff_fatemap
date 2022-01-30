@@ -1,0 +1,5 @@
+README — Figures_12.18.21_SuppFig6.txt
+
+A. Heatmaps were generated using the script plotScripts/FigureBchangecutoffs.R and can be found in plotData/Supplement/memory/—each heatmap is called "JSDheatmap_1dec.pdf" in the directory named for its minimal cell threshold; i.e., plotData/Supplement/memory/7cells/JSDheatmap_1dec.pdf, plotData/Supplement/memory/10cells/JSDheatmap_1dec.pdf, plotData/Supplement/memory/15cells/JSDheatmap_1dec.pdf, and plotData/Supplement/memory/2-cells/JSDheatmap_1dec.pdf.
+
+B. Both the heatmap and bar graphs were generated using the script plotScripts/JSDmelanomadata.R. The heatmap demonstrating pairwise Jensen-Shannon distances between barcodes found in both splits can be found at plotData/Supplement/YogoJSD/Yogo_JSD.pdf. Barcode YB1 "probability density" bar graphs can be found at plotData/Supplement/YogoJSD/Yogo_B1.pdf; barcode YB2 "probability density" bar graphs can be found at plotData/Supplement/YogoJSD/Yogo_B2.pdf.

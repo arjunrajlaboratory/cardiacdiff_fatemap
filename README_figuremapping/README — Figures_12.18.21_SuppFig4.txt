@@ -1,0 +1,7 @@
+README — Figures_12.18.21_SuppFig4.txt
+
+A. Raw cell count and "probability distribution" bar graphs for barcode B31B were generated using the script plotScripts/barcodeprobabilitydistributiongeneration.R. Raw cell count bar graph can be found at plotData/Supplement/barcodeB31B_probdistribution/B31_distributionvsavgrandom_NORMno14.pdf and "probability distribution" bar graph can be found at plotData/Supplement/barcodeB31B_probdistribution/B31_distributionvsavgrandom_rawcells.pdf.
+
+B. Heatmap demonstrating barcode normalized cell proportion distribution across Seurat clusters was generated using the script plotScripts/constraintheatmap.R and can be found at plotData/Supplement/constraintheatmap/combinedheatmap.pdf.
+
+C. UMAPs and normalized cell proportion bar graphs generated from the script plotScripts/Figure2.R (within for loop). The cluster 3 proportion histograms were generated with the script plotScripts/cluster3significance.R. Barcode 28A plots can be found at plotData/Figure2/sibAconstraint_res0.5/B28_umap_alone.pdf, plotData/Figure2/sibAconstraint_res0.5/B28_distributionvsavgrandom_NORMno14.pdf, and plotData/Supplement/B28Acluster3distribution.pdf, and barcode 35A plots can be found at plotData/Figure2/sibAconstraint_res0.5/B35_umap_alone.pdf, plotData/Figure2/sibAconstraint_res0.5/B35_distributionvsavgrandom_NORMno14.pdf, and plotData/Supplement/B35Acluster3distribution.pdf
