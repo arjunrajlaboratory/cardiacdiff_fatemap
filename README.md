@@ -22,3 +22,5 @@ Additional annotation/information available in individual R scripts.
 Scripts to produce extractedData are also included in extractionScripts - these use some but not all of the files included in the rawData subdirectory of the Dropbox folder referenced above.
 
 Scripts to produce figures from extractedData can be found in plotScripts.
+
+If running scripts using downloaded GEO processed single cell RNA sequencing files (of the structure <samplename>.matrix.mtx.gz, <samplename>.features.tsv.gz, <samplename>.barcodes.tsv.gz), please first make separate directories for each <samplename> containing the matrix, features, and barcodes files and then remove <samplename> from those; i.e., <samplename>/matrix.mtx.gz and other files).
